@@ -1,4 +1,4 @@
-- 🎓 Estudante
+
 - 📚 Estudante SESI/SENAI
 - 📩 Contato: anajuliabello1@gmail.com
 
