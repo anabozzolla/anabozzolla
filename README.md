@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+###  Tecnologias que estou estudando
 - Java 
 - Git & GitHub
   
