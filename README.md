@@ -1,16 +1,17 @@
-## Hi there 👋
+- 🎓 Estudante
+- 📚 Estudante SESI/SENAI
+- 📩 Contato: anajuliabello1@gmail.com
 
-<!--
-**anabozzolla/anabozzolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou estudando
+- Java 
+- Git & GitHub
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMTdmaXhhcDl2Mmtobjc0MnVlOXRlbzN4NmxycnZzenpvN2MwbWkwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tRoH9EYLs3lok/200w.gif" widrh="350" />
+</p>
+
