@@ -1,5 +1,5 @@
 
-- 📚 Estudante SESI/SENAI
+- 📚 Estudante de Análise de Desenvolvimento de Sistemas SESI/SENAI
 - 📩 Contato: anajuliabello1@gmail.com
 
 ---
@@ -7,7 +7,7 @@
 ###  Tecnologias que estou estudando
 - Java 
 - Git & GitHub
-  
+- HTML & CSS  
 ---
 
 ## 
